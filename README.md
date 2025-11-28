@@ -1,4 +1,4 @@
-#cuchara-amable
+# cuchara-amable
 
 Este es un repositorio para albergar ideas que quiero compartir.
 
