@@ -6,6 +6,15 @@ El nombre viene de la sugerencia automática de GitHub en inglés `friendly-spoo
 Simboliza una estrategia ágil, de no dedicar tiempo (ni *atención*) innecesarias que nos desvíen del objetivo, cuando no tenemos nada que aportar.
 Tenía unas ideas en la cabeza que quería volcar (tras una mini siesta de 20 min), y no sé qué nombre ponerle todavía a la iniciativa. Conque así se queda.
 
+La traducción al español no es accidental; más bien lo contrario. 
+Si información y espacio-tiempo se identifican, el lenguaje se convierte en uno de los más valiosos reductos donde atesorar qué pasó, dónde y cuándo.
+Posiblemente, el único para la mente consciente de los humanos. 
+Con la elección del español trato de reivindicar la visión y experiencia vital del mundo hispánico, en oposición a la categorización hegemónica del inglés.
+En absoluto desde una reacción airada, violenta, de confrontación con ese idioma y civilización; solo desde la afirmación serena, algo así como *sí, si el inglés está muy bien, pero dejadme que pruebe en español a ver. No os preocupéis por mí.*
+Es decir, no desde un nacionalismo que busca oprimir al otro, "competir" en un mundo heredado de la visión "bélica" e incivilizada, que nace de la defensa frente a la opresión de unos. 
+Más bien desde el respeto profundo, pero con la determinación libre, consciente, pacífica y responsable de optar por otro.
+
+
 - El espacio-tiempo es información.
 - El dinero no es más que una abstracción del poder de unos sobre otros.
 - No es la única forma de poder ("opresión").
