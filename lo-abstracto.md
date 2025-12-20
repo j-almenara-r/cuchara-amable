@@ -22,3 +22,8 @@ Yo lo veo como una analogía del método científico de descartes. Internet, y e
 Ahora, la LLM es la tecnología que posibilita, en escalas humanas de tiempo, la síntesis de toda esa complejidad, dando lugar a conclusiones racionales y científicas imposibles de alcanzar previamente.
 
 > Para transmitir ideas con cierto prestigio social, hasta hace poco era necesario "escribir un libro". En cambio, en el escenario actual de saturación informativa, quizá un texto más corto sea suficiente, algo que se distinga por su concisión, por ser una síntesis, y no por mera extensión "al peso"
+
+> Me llama la atención la idea de simbiosis aplicada a la IA-LLM. Ser capaz de combinar la generación de pensamiento cerebral humana, su volcado en formatos digeribles por la IA (idealmente texto plano), su procesado, mejora y sintetizado por esta, y la vuelta al cerebro mediante la lectura. Una lectura que debe ser reposada, serena, sin distracciones, para dejar una huella efectiva en el pensamiento.  
+> Me parece curioso (y no tan puramente casual) que, de forma contemporánea, BMW exhiba como elemento diferenciador (en su vanguardia de desarrollo) el concepto de simbiosis al conducir. 
+Que los asistentes (guiado de carril, etc.) no se desactiven al intervenir el conductor, sino que tengan esa "flexibilidad orgánica"y admitan cierto tuya-mía,realmente cambia las cosas, transforma la experiencia.
+Me parece que la IA-LLM tiene que ser usada de forma similar, y que el arte (lo no trivial) reside en discernir cuándo sí y cuándo no.
