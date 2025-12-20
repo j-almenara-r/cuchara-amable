@@ -1,4 +1,4 @@
-# Lo abstracto
+8# Lo abstracto
 
 - El espíritu del software libre me parece realmente revolucionario en tanto que comparte de forma "semi-desinteresada" lo que sabe.
   - Digo "semi-", porque hay un goce en el disfrute del conocimiento, de crear, de colaborar, de hacer, que es eminentemente individual, único, privado, pero no por ello egoista.
@@ -27,3 +27,11 @@ Ahora, la LLM es la tecnología que posibilita, en escalas humanas de tiempo, la
 > Me parece curioso (y no tan puramente casual) que, de forma contemporánea, BMW exhiba como elemento diferenciador (en su vanguardia de desarrollo) el concepto de simbiosis al conducir. 
 Que los asistentes (guiado de carril, etc.) no se desactiven al intervenir el conductor, sino que tengan esa "flexibilidad orgánica"y admitan cierto tuya-mía,realmente cambia las cosas, transforma la experiencia.
 Me parece que la IA-LLM tiene que ser usada de forma similar, y que el arte (lo no trivial) reside en discernir cuándo sí y cuándo no.
+
+
+
+---
+
+Para sobrevivir en el nuevo paradigma de saturacion informativa, es necesario "dejarla ir", asumir que la inmensa mayoria de ella no vas a poder procesarla durante tu vida.
+
+ 
