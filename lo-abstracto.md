@@ -1,4 +1,4 @@
-8# Lo abstracto
+88# Lo abstractov
 
 - El espíritu del software libre me parece realmente revolucionario en tanto que comparte de forma "semi-desinteresada" lo que sabe.
   - Digo "semi-", porque hay un goce en el disfrute del conocimiento, de crear, de colaborar, de hacer, que es eminentemente individual, único, privado, pero no por ello egoista.
@@ -34,4 +34,10 @@ Me parece que la IA-LLM tiene que ser usada de forma similar, y que el arte (lo 
 
 Para sobrevivir en el nuevo paradigma de saturacion informativa, es necesario "dejarla ir", asumir que la inmensa mayoria de ella no vas a poder procesarla durante tu vida.
 
+---
+Un problema es la "sospecha" sobre los empresarios, el considerar "ilegitima" su actividad.
+Viendo el Girona-Atleti, veo un cartel de idealista y pienso: ¿por qué generan odio ciertas empresas, ciertas marcas?? ¿De dónde viene ese sambenito perpetuo?
+Cuando estudié en 2º de bachillerato Historia de la Filosofía, recuerdo llegar a finales del Siglo XIX a los "Filósofos de la Sospecha": Marx, Freud y Nietzsche. Estos fundamentaban sus ideas en un denominador común, que era dudar de unas ideas "ocultas", "subyacentes", que gobernaban la sociedad. No estoy de acuerdo.
+
+> Que esa es otra, lo mucho que influencian nuestra vida las _marcas_. Eso da para otro capítulo completo, La idea de _marca_, o más bien las marcas, moldean muchísimo el pensamiento, hasta el punto de que el cambio sustancial de la sociedad a partir del siglo XIX en adelante, creo que se explica en gran medida por el advenimiento de unas marcas muy importantes: las _naciones_. Todo ese "romanticismo decimonónico" me parece capaz de florecer y calar en en la mente colectiva gracias al mecanismo de "síntesis" y "sustantivización" de las marcas: asociar a un sustantivo un significado (connotativo y denotativo) concreto, lo que permite condensar, sintetizar, muchas ideas en una sola palabra, y así transmitirla de forma efectiva a muchas mentes. Todo lo cual habría sido imposible sin ese "empaquetado" en una sola palabra.
  
