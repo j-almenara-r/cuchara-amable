@@ -29,3 +29,12 @@ Más bien desde el respeto profundo, pero con la determinación libre, conscient
 
 
 [1] Charla del WOBI, sala de BCG, un tal "Jota", consultor empresarial.
+---
+
+# La Revolución Prudente
+
+Ćomienzo este texto introduciendo el porqué del título.
+Como no puede ser de otra forma, la razón principal es que resume en un sintagma corto la idea general: cómo lograr una transformación del estado real de la sociedad desde el respeto al estado actual de la misma, con todas las causas que lo han llevado hasta él. La evolución histórica, es decir, todo el conjunto de decisiones de seres humanos individuales hasta hoy.
+Sin embargo, una segunda razón, menos importante desde un punto de vista racional y efectivo, pero  posiblemente tanto o más desde la espontaneidad y la naturaleza sentimental humana, es que mi padre se llama Prudencio y de él he extraido dos ideas (o por qué no decirlo, enseñanzas) que de alguna forma consitityen una parte significativa de los fundamentos de este libro.
+- Por una parte, mi padre siempre dijo que, ante una decisión ajena que uno mismo debiera responsabilizarse de hacer cumplir, exigieras una comunicación _por escrito_. ...
+- Por otro, una anécdota de la mili, como no podía ser de otra manera para terminar de darle esa pátina costumbrista irónica. Mi padre era telefonista. ...   
