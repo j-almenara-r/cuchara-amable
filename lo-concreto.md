@@ -21,7 +21,7 @@ Es una de las hipótesis que quiero transmitir (que el sistema ya contempla much
 
 - Reinstarurar la historia de la filosofía en el sistema educativo.
 
-- Elevar los límites de velocidad en las carreteras a 150 km/h, a cambio de integrar cajas negras en los vehículos (con datos significativos) para determinar las causas de los siniestros
+- Elevar los límites de velocidad en las carreteras a 150 km/h, a cambio de integrar cajas negras en los vehículos (con datos significativos) para determinar las causas de los siniestros. Objetivo: mejorar la confianza de los ciudadanos en las normas. Se respetan cuando concuerdan mejor con la experiencia directa (i.e., son "razonables")
 
 
 ---
