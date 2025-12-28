@@ -85,3 +85,40 @@ Cuando estudié en 2º de bachillerato Historia de la Filosofía, recuerdo llega
 
 > Que esa es otra, lo mucho que influencian nuestra vida las _marcas_. Eso da para otro capítulo completo, La idea de _marca_, o más bien las marcas, moldean muchísimo el pensamiento, hasta el punto de que el cambio sustancial de la sociedad a partir del siglo XIX en adelante, creo que se explica en gran medida por el advenimiento de unas marcas muy importantes: las _naciones_. Todo ese "romanticismo decimonónico" me parece capaz de florecer y calar en en la mente colectiva gracias al mecanismo de "síntesis" y "sustantivización" de las marcas: asociar a un sustantivo un significado (connotativo y denotativo) concreto, lo que permite condensar, sintetizar, muchas ideas en una sola palabra, y así transmitirla de forma efectiva a muchas mentes. Todo lo cual habría sido imposible sin ese "empaquetado" en una sola palabra.
  
+---
+
+
+- Cuidado con monetizarlo todo. Solo lo suficiente para llegar al nivel de despreocupación.
+
+- La Gobernación es un problema de docencia, de explicar al ciudadano las cosas. La complejidad de un sistema político es tal que hasta ahora era imposible explicar todas las decisiones; sin embargo, Internet y la IA-LLM se vuelve posible explicar toda esa complejidad en el momento concreto del espacio-tiempo que se necesite. La clave es que la información que nos da esa inteligencia artificial sea veraz y rastreable
+
+- En el sistema actual te brinda la oportunidad de vivir una vida anarquista y libre si tienes suficiente dinero sin ningún problema
+
+- Pagar por la cultura solo se hace cuando tienes dinero pero se hace de buen grado si realmente no te preocupa ese dinero.
+
+--- 
+
+- Si no somos capaces de compartir piso siendo adultos, porque nos ponen nerviosos ciertas cosas y queremos nuestro espacio, nuestras propias decisiones y procedimientos, ¿cómo vamos a abolir la propiedad privada?? Si es la forma mas básica de convivencia
+
+Lo que no podemos es, ni permitir que los principios que funcionan en la escala pequeña, que garantizan la libertad y la responsabilidad individual,  desaparezcan; y al mismo tiempo, que los defectos de esos principios en la escala grande,  se perpetuen y arrastren a la humanidad. Rusia, China, EEUU, intereses geopoliticos... qué sentido tienen?? Entidades privadas con fines lucrativo, o estados hegemonucos con ambición de poder (que no tiene por que ser malintencionado, ojo)
+
+Pausa, 137, 5min del final
+
+Los jovenes son mas escepticos wue otras franjas de poblacion, porque saben lo que se puede hacer.
+Yo entre en forocoches con 12 años, y ahí en los foros de la web 2.0 se genero (y aun perdurar, entre el ruido), un espíritu de comunidad y cooperación, de entrega de tiempo (posiblemente lo mas valioso hoy en dia), literalmente increíble antes de Internet. Pongamos eso al servicio del bien.
+ tengo amigos que jugaban al gta con 5, ¿que problema hay??
+
+Sería justo que las personas recibiesen un salario mínimo de por vida, simplemente por su competencia tecnica demostrada en un examen?? En un proceso de evaluación, mejor dicho??
+Anda... estamos acaso inventando el concepto de oposición?? 
+Cuando los jueces y el resto de trabajadores del derecho se pongan nerviosos al ver peligrar sus puestos cuando colaboren con una IALLM legislativa, justifiquemoslo asi.
+
+Reinventar el proceso de evaluación (es decir, de medida), desde el sistema educativo, para cambiar la sociedad
+
+
+Que hacemos con las penas a los menores??
+Bajar la mayoría de edad penal de 18 a 14
+Responsabilizar a los niños desde pequeños, poco a poco
+No permitir que el mal escale. El sistema tiene que proteger frente a la indisciplina, sin caer en el control ferreo
+Transferir la responsabilidad penal a los padres. Si tu hijo abusa de una niña, es como si si progenitor lo hubiera hecho, al 50%
+
+
