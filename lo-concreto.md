@@ -21,3 +21,9 @@ Las propuestas de lo concreto se relacionarán con categorías de lo abstracto.
 - Elevar los límites de velocidad en las carreteras a 150 km/h, a cambio de 
 
 
+---
+
+- Presentarse a las elecciones única y exclusivamente para cambiar la ley electoral
+
+
+- Las oposiciones y los examenes de empleo publico en la era de la IA. Creo qu3 siguen teniendo sentido, en tanto que los mas preparados seguiran siendo los que mejor resultado obtengan en ellos
