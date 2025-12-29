@@ -34,6 +34,9 @@ Más bien desde el respeto profundo, pero con la determinación libre, conscient
 
 - Volver a hacer ciencia como antaño (sin ordenadores), y dejar la informática para las mediciones
 
+- El ordenador va a hacer lo que tú le digas (de momento, si no se va de madre); la cuestión es qué le decimos (qué palabras, conceptos). 
+- El renovado valor de las decisiones y la responsabilidad y el decrecimiento del valor de la información
+
 ## 2. El dinero como abstracción más probada y aséptica del poder 
 
 ## 3. El Estado como sistema caótico
