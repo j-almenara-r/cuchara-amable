@@ -27,5 +27,18 @@ Más bien desde el respeto profundo, pero con la determinación libre, conscient
 
 - La moneda de cambio en el nuevo mundo que se nos viene es la atención. [1]
 
+## 1. La información y el lenguaje
+
+- Distinción, "eter informativo",
+- Ejemplo de partidas de ajedrez (preguntar a Alberto por referencia)
+
+- Volver a hacer ciencia como antaño (sin ordenadores), y dejar la informática para las mediciones
+
+## 2. El dinero como abstracción más probada y aséptica del poder 
+
+## 3. El Estado como sistema caótico
+
+## 4. La información libre y transparente y la restauración de la confianza
+
 
 [1] Charla del WOBI, sala de BCG, un tal "Jota", consultor empresarial.
