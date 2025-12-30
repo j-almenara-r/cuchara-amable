@@ -45,3 +45,9 @@ Más bien desde el respeto profundo, pero con la determinación libre, conscient
 
 
 [1] Charla del WOBI, sala de BCG, un tal "Jota", consultor empresarial.
+
+---
+- Es como un pensadero: cuando te llega la información, hay que plasmarla.
+- Metáfora del embudo escuchada en Onda Cero la tarde del 29 de dic. de 2025. Regímenes comunistas se entra al mercado por el lado estrecho; en los capitalistas, al revés. Es decir, en los primeros, es la formación del sistema la que criba; en los segundos, es el mercado.
+
+En ambos casos, se trata de un problema de métrica: en el primero, unos exámenes; en el segundo, el dinero. ¿No hay manera de conjugar ambos??
