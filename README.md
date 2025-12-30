@@ -51,3 +51,5 @@ Más bien desde el respeto profundo, pero con la determinación libre, conscient
 - Metáfora del embudo escuchada en Onda Cero la tarde del 29 de dic. de 2025. Regímenes comunistas se entra al mercado por el lado estrecho; en los capitalistas, al revés. Es decir, en los primeros, es la formación del sistema la que criba; en los segundos, es el mercado.
 
 En ambos casos, se trata de un problema de métrica: en el primero, unos exámenes; en el segundo, el dinero. ¿No hay manera de conjugar ambos??
+
+- Ejemplo de cuándo no medir: en mi nueva empresa, acordé con mi jefe mentir en la hoja de asistencia. Por defecto pongo las 8:15 diarias, y luego hago lo que a mí me parece, sabiendo que cumplo con mis objetivos del trabajo. Elegí mentir, y eso me ha hecho más feliz y trabajar mejor, más tranquilo y motivado. Debe de haber alguna manera de llevar esto a la práctica: definir estrictamente qué medimos y qué no; y, por el camino, lo que midamos, ser benévolo ante métricas que se salen de lo acordado, definiendo bien los umbrales.
