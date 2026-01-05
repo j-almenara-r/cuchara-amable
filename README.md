@@ -1,4 +1,4 @@
-# cuchara-amable
++# cuchara-amable
 
 Este es un repositorio para albergar ideas que quiero compartir.
 
@@ -53,3 +53,18 @@ Más bien desde el respeto profundo, pero con la determinación libre, conscient
 En ambos casos, se trata de un problema de métrica: en el primero, unos exámenes; en el segundo, el dinero. ¿No hay manera de conjugar ambos??
 
 - Ejemplo de cuándo no medir: en mi nueva empresa, acordé con mi jefe mentir en la hoja de asistencia. Por defecto pongo las 8:15 diarias, y luego hago lo que a mí me parece, sabiendo que cumplo con mis objetivos del trabajo. Elegí mentir, y eso me ha hecho más feliz y trabajar mejor, más tranquilo y motivado. Debe de haber alguna manera de llevar esto a la práctica: definir estrictamente qué medimos y qué no; y, por el camino, lo que midamos, ser benévolo ante métricas que se salen de lo acordado, definiendo bien los umbrales.
+
+
+---
+
+20250713, Podcast Pausa (a un tal Juan Ignacio): Del gran Lebowski a...
+Lo escucho de Toledo a Miguel Esteban a través del puerto de Los Yébenes
+
+Dice el entrevistado que el trabajo no dignifica sino que degrada. Que hay que reivindicar la "pereza", la contemplación, la "vida horizontal", más que vertical.
+
+Estoy de acuerdo con esas afirmaciones en el contexto del mundo actual. Pretenden restaurar un equilibrio; sin embargo, iba a escribir "que se ha perdido", pero de repente me he preguntado: ¿ha existido alguna vez?
+
+Para mí, la pregunta que falta en ese discurso es de dónde surge esa necesidad, incluso "vicio" del ser humano de trabajar. ¿Es un "capricho"?¿Una adicción fruto de la ambición y el poder? ¿O una necesidad real, una demanda ineludible de la naturaleza para garantizar la supervivencia? Y ya no la supervivencia... Me parece super interesante la tesis mencionada de la anarquista ..., sobre la belleza como derecho, entendida como bellas condiciones materiales. Sin embargo, creo que el trabajo, es precisamente un requisito indispensable para lograrla, un trance desagradable que hay que pasar. Eso no quita que haya que equilibrarlo con otras facetas de la vida, ponerle límites,  asignarle su justa parcela, ni excesiva ni demasiado pequeña. Es decir, la pereza está muy bien, y es necesario reivindicarla en una sociedad sana y justa. Pero creo que esa relajación también debe estar limitada por la necesidad inexcusable de contribuir materialmente al resto de la sociedad con el trabajo. Es decir, se hace necesario una tensión entre trabajo y procrastinación; ni los obreros del siglo XIX reclamando el _derecho a trabajar_ ni el autor francés del _derecho a no trabajar_ lo esta. La clave, nada sencilla, es conjugar ambas propuestas a la vez, no una u otra de forma "hegemónica" en la sociedad.
+Me parece que el no trabajar impide alcanzar las condiciones de vida digna y es injusto para el conjunto (al final, alguien tiene que cocinar y limpiar...), pero trabajar demasiado es producto del afán de poder y la ambición, y por tanto no puede estar protegido sagradamente a cualquier precio. Aquí puntualizo la diferencia entre esas motivaciones y la "codicia" pura, que creo que es mucho menos frecuente de lo aceptado comunmente. La prueba es que en las implantaciones de regímenes comunistas se trabaja tanto o más que en los capitalistas, y podemos asumir que allí la codicia, en su sentido económico más puro, está casi erradicada por los mecanismos burocráticos.      
+
+Quizá sean las dos.
