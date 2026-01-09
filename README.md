@@ -1,4 +1,4 @@
-+# cuchara-amable
+# cuchara-amable
 
 Este es un repositorio para albergar ideas que quiero compartir.
 
@@ -136,3 +136,10 @@ Yo pregunto: ¿cuáles no se cumplen en el mundo occidental actual?
 p176. Curioso que Russel diga "educación _voluntaria_ y gratuita" en lugar de obligatoria.
 
 p178. Para mí, el sistema (ha demostrado que puede??) ofrece(r) las condiciones materiales de vida. Veo un parecido razonable entre el status quo actual y un supuesto anarquismo, a ojos de un artista. Hay libertad suficiente para dedicarse a ello. Otra cosa es que el rédito obtenido resulte insuficiente.  
+
+--- 
+
+20260109
+Veo en los rasgos de Trump descritos por EOM (Podcast 246) paralelismos con las "metodologías ágiles": quick-wins, solo 4 puntos para armar un relato... a mí me gustaría utilizar esas mismas metodologías desde una óptica democrática, radicalmente transparente y colaborativa, inspirada en el código abierto.
+Si esto no se hace más es por lo costoso mentalmente que resulta manejar toda la complejidad de un sistema así. Se prefieren liderazgos más simples; más aun si tenemos la atención y la energía "secuestradas" por la saturación informativa.
+Una IA-LLM totalmente auditable tiene el potencial de desbloquear la situación por su capacidad de síntesis.
