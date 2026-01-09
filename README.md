@@ -145,3 +145,6 @@ Si esto no se hace más es por lo costoso mentalmente que resulta manejar toda l
 Una IA-LLM totalmente auditable tiene el potencial de desbloquear la situación por su capacidad de síntesis.
 
 De hecho, la IA-LLM es más bien una herramienta de aprendizaje, que nos da respuestas inmediatamente
+
+
+Esuchando el Descubrimiento Semanal de Spotify, me gusta la música pero no sé quién la ha hecho. ¿Qué diferencia habría con una música generada por IA en el momento? Bien, yo pienso que hay un valor intrínseco en que lo haya generado un humano. No intrínseco en sentido "absoluto"; el valor es arbitrario y se lo damos nosotros los humanos. Pero entonces, sí que es "intrínseco" en sentido "humano".
