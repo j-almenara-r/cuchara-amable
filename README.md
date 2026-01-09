@@ -143,3 +143,5 @@ p178. Para mí, el sistema (ha demostrado que puede??) ofrece(r) las condiciones
 Veo en los rasgos de Trump descritos por EOM (Podcast 246) paralelismos con las "metodologías ágiles": quick-wins, solo 4 puntos para armar un relato... a mí me gustaría utilizar esas mismas metodologías desde una óptica democrática, radicalmente transparente y colaborativa, inspirada en el código abierto.
 Si esto no se hace más es por lo costoso mentalmente que resulta manejar toda la complejidad de un sistema así. Se prefieren liderazgos más simples; más aun si tenemos la atención y la energía "secuestradas" por la saturación informativa.
 Una IA-LLM totalmente auditable tiene el potencial de desbloquear la situación por su capacidad de síntesis.
+
+De hecho, la IA-LLM es más bien una herramienta de aprendizaje, que nos da respuestas inmediatamente
