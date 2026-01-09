@@ -158,3 +158,7 @@ Me parece que ese mismo mecanismo es el que explica la subida de los precios de 
 La cuestión es... ¿es realmente objetiva y científicamente mejor? ¿Cómo se generan esas modas? ¿Qué es "lo guay"?
 Para mí el problema de la vivienda (y de otro tipo de bienes "tensionados") es enseñar a la gente a discernir entre moda y necesidad real. Luego que cada uno decida.
 Esto no entra en conflicto con impedir la especulación de ciertos bienes básicos, pero mediante reglas muy muy laxas, muy permisivas, que solo entren en juego en escalas muy muy pequeñas de la población
+
+---
+
+- Metáfora sobre llamadas e IA. Imaginemos que existiese... (describir una llamada a una persona)
