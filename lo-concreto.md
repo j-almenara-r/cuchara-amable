@@ -8,6 +8,9 @@ Lo abstracto será lo futuro, la visión, los ideales, los principios, lo "inmut
 La idea es intentar reconciliar ambas visiones en un proceso de mejora continua de la sociedad.
 Las propuestas de lo concreto se relacionarán con categorías de lo abstracto.
 
+No me sorprendería que algunas de las medidas enunciadas aquí ya existan, y simplemente sean desconocidas por mí. 
+Es una de las hipótesis que quiero transmitir (que el sistema ya contempla muchas cosas, solo que son desconocidas o no se traducen en un resultado real medible).
+
 
 ---
 
@@ -18,7 +21,7 @@ Las propuestas de lo concreto se relacionarán con categorías de lo abstracto.
 
 - Reinstarurar la historia de la filosofía en el sistema educativo.
 
-- Elevar los límites de velocidad en las carreteras a 150 km/h, a cambio de 
+- Elevar los límites de velocidad en las carreteras a 150 km/h, a cambio de integrar cajas negras en los vehículos (con datos significativos) para determinar las causas de los siniestros. Objetivo: mejorar la confianza de los ciudadanos en las normas. Se respetan cuando concuerdan mejor con la experiencia directa (i.e., son "razonables")
 
 
 ---

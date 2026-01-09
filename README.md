@@ -64,6 +64,39 @@ En ambos casos, se trata de un problema de métrica: en el primero, unos exámen
 - Ejemplo de cuándo no medir: en mi nueva empresa, acordé con mi jefe mentir en la hoja de asistencia. Por defecto pongo las 8:15 diarias, y luego hago lo que a mí me parece, sabiendo que cumplo con mis objetivos del trabajo. Elegí mentir, y eso me ha hecho más feliz y trabajar mejor, más tranquilo y motivado. Debe de haber alguna manera de llevar esto a la práctica: definir estrictamente qué medimos y qué no; y, por el camino, lo que midamos, ser benévolo ante métricas que se salen de lo acordado, definiendo bien los umbrales.
 
 
+
+# Lo abstracto
+
+- El espíritu del software libre me parece realmente revolucionario en tanto que comparte de forma "semi-desinteresada" lo que sabe.
+  - Digo "semi-", porque hay un goce en el disfrute del conocimiento, de crear, de colaborar, de hacer, que es eminentemente individual, único, privado, pero no por ello egoista.
+- De la gestión de estos proyectos (muy complejos) se pueden extraer lecciones y metodologías para la política colaborativa, en mi opinión.
+
+
+---
+2025-12-20
+
+Existe una realidad, un "ente eterno", que se manifiesta a través de la información.
+
+Nosotros los humanos, nos relacionamos con esa realidad mediante el pensamiento, que son  conexiones espontáneas de informaciones que ocurren en el cerebro.
+
+El lenguaje es la única manera que tenemos de  transmitir esos pensamientos/informaciones entre nosotros (i.e., entre cerebros distintos)
+
+Mediante la escritura (que no es cualquier cosa; se considera el inicio de la historia) hacemos ese lenguaje perdurar en el espacio-tiempo,
+
+Creo sinceramente que la explosión informativa de los últimos 50 años puede culminar ahora con los LLMs. igual que Internet posibilitó un acceso sin igual a la información 
+
+Yo lo veo como una analogía del método científico de descartes. Internet, y en especial la tecnología de búsqueda (i.e., Google), son la fase de análisis: hallar todo lo que hay, descomponerlo y hacer explícita toda su complejidad (humanamente inabarcable).
+Ahora, la LLM es la tecnología que posibilita, en escalas humanas de tiempo, la síntesis de toda esa complejidad, dando lugar a conclusiones racionales y científicas imposibles de alcanzar previamente.
+
+> Para transmitir ideas con cierto prestigio social, hasta hace poco era necesario "escribir un libro". En cambio, en el escenario actual de saturación informativa, quizá un texto más corto sea suficiente, algo que se distinga por su concisión, por ser una síntesis, y no por mera extensión "al peso"
+
+> Me llama la atención la idea de simbiosis aplicada a la IA-LLM. Ser capaz de combinar la generación de pensamiento cerebral humana, su volcado en formatos digeribles por la IA (idealmente texto plano), su procesado, mejora y sintetizado por esta, y la vuelta al cerebro mediante la lectura. Una lectura que debe ser reposada, serena, sin distracciones, para dejar una huella efectiva en el pensamiento.  
+> Me parece curioso (y no tan puramente casual) que, de forma contemporánea, BMW exhiba como elemento diferenciador (en su vanguardia de desarrollo) el concepto de simbiosis al conducir. 
+Que los asistentes (guiado de carril, etc.) no se desactiven al intervenir el conductor, sino que tengan esa "flexibilidad orgánica"y admitan cierto tuya-mía,realmente cambia las cosas, transforma la experiencia.
+Me parece que la IA-LLM tiene que ser usada de forma similar, y que el arte (lo no trivial) reside en discernir cuándo sí y cuándo no.
+
+
+
 ---
 
 20250713, Podcast Pausa (a un tal Juan Ignacio): Del gran Lebowski a...
@@ -171,3 +204,49 @@ Esto no entra en conflicto con impedir la especulación de ciertos bienes básic
 ---
 
 - Metáfora sobre llamadas e IA. Imaginemos que existiese... (describir una llamada a una persona)
+Para sobrevivir en el nuevo paradigma de saturacion informativa, es necesario "dejarla ir", asumir que la inmensa mayoria de ella no vas a poder procesarla durante tu vida.
+
+---
+Un problema es la "sospecha" sobre los empresarios, el considerar "ilegitima" su actividad.
+Viendo el Girona-Atleti, veo un cartel de idealista y pienso: ¿por qué generan odio ciertas empresas, ciertas marcas?? ¿De dónde viene ese sambenito perpetuo?
+Cuando estudié en 2º de bachillerato Historia de la Filosofía, recuerdo llegar a finales del Siglo XIX a los "Filósofos de la Sospecha": Marx, Freud y Nietzsche. Estos fundamentaban sus ideas en un denominador común, que era dudar de unas ideas "ocultas", "subyacentes", que gobernaban la sociedad. No estoy de acuerdo.
+
+> Que esa es otra, lo mucho que influencian nuestra vida las _marcas_. Eso da para otro capítulo completo, La idea de _marca_, o más bien las marcas, moldean muchísimo el pensamiento, hasta el punto de que el cambio sustancial de la sociedad a partir del siglo XIX en adelante, creo que se explica en gran medida por el advenimiento de unas marcas muy importantes: las _naciones_. Todo ese "romanticismo decimonónico" me parece capaz de florecer y calar en en la mente colectiva gracias al mecanismo de "síntesis" y "sustantivización" de las marcas: asociar a un sustantivo un significado (connotativo y denotativo) concreto, lo que permite condensar, sintetizar, muchas ideas en una sola palabra, y así transmitirla de forma efectiva a muchas mentes. Todo lo cual habría sido imposible sin ese "empaquetado" en una sola palabra.
+ 
+---
+
+
+- Cuidado con monetizarlo todo. Solo lo suficiente para llegar al nivel de despreocupación.
+
+- La Gobernación es un problema de docencia, de explicar al ciudadano las cosas. La complejidad de un sistema político es tal que hasta ahora era imposible explicar todas las decisiones; sin embargo, Internet y la IA-LLM se vuelve posible explicar toda esa complejidad en el momento concreto del espacio-tiempo que se necesite. La clave es que la información que nos da esa inteligencia artificial sea veraz y rastreable
+
+- En el sistema actual te brinda la oportunidad de vivir una vida anarquista y libre si tienes suficiente dinero sin ningún problema
+
+- Pagar por la cultura solo se hace cuando tienes dinero pero se hace de buen grado si realmente no te preocupa ese dinero.
+
+--- 
+
+- Si no somos capaces de compartir piso siendo adultos, porque nos ponen nerviosos ciertas cosas y queremos nuestro espacio, nuestras propias decisiones y procedimientos, ¿cómo vamos a abolir la propiedad privada?? Si es la forma mas básica de convivencia
+
+Lo que no podemos es, ni permitir que los principios que funcionan en la escala pequeña, que garantizan la libertad y la responsabilidad individual,  desaparezcan; y al mismo tiempo, que los defectos de esos principios en la escala grande,  se perpetuen y arrastren a la humanidad. Rusia, China, EEUU, intereses geopoliticos... qué sentido tienen?? Entidades privadas con fines lucrativo, o estados hegemonucos con ambición de poder (que no tiene por que ser malintencionado, ojo)
+
+Pausa, 137, 5min del final
+
+Los jovenes son mas escepticos wue otras franjas de poblacion, porque saben lo que se puede hacer.
+Yo entre en forocoches con 12 años, y ahí en los foros de la web 2.0 se genero (y aun perdurar, entre el ruido), un espíritu de comunidad y cooperación, de entrega de tiempo (posiblemente lo mas valioso hoy en dia), literalmente increíble antes de Internet. Pongamos eso al servicio del bien.
+ tengo amigos que jugaban al gta con 5, ¿que problema hay??
+
+Sería justo que las personas recibiesen un salario mínimo de por vida, simplemente por su competencia tecnica demostrada en un examen?? En un proceso de evaluación, mejor dicho??
+Anda... estamos acaso inventando el concepto de oposición?? 
+Cuando los jueces y el resto de trabajadores del derecho se pongan nerviosos al ver peligrar sus puestos cuando colaboren con una IALLM legislativa, justifiquemoslo asi.
+
+Reinventar el proceso de evaluación (es decir, de medida), desde el sistema educativo, para cambiar la sociedad
+
+
+Que hacemos con las penas a los menores??
+Bajar la mayoría de edad penal de 18 a 14
+Responsabilizar a los niños desde pequeños, poco a poco
+No permitir que el mal escale. El sistema tiene que proteger frente a la indisciplina, sin caer en el control ferreo
+Transferir la responsabilidad penal a los padres. Si tu hijo abusa de una niña, es como si si progenitor lo hubiera hecho, al 50%
+
+
