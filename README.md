@@ -148,3 +148,13 @@ De hecho, la IA-LLM es más bien una herramienta de aprendizaje, que nos da resp
 
 
 Esuchando el Descubrimiento Semanal de Spotify, me gusta la música pero no sé quién la ha hecho. ¿Qué diferencia habría con una música generada por IA en el momento? Bien, yo pienso que hay un valor intrínseco en que lo haya generado un humano. No intrínseco en sentido "absoluto"; el valor es arbitrario y se lo damos nosotros los humanos. Pero entonces, sí que es "intrínseco" en sentido "humano".
+
+---
+La IA-LLM como "dopaje"; como se dice en inglés, ("unfair advantage"). Es nuestra responsabilidad enseñar a usarla. Que "todo el mundo se dope".
+
+Hablando con Juan, un compañero de trabajo, surgió el tema de los aguacates. Él dijo que "caro, como todo lo sano". Y yo añadí "y que se pone de moda".
+¿No será que ahora que hemos dado un salto enorme en la disponibilidad de información científica veraz (qué comidas son sanas y cuáles no), lo sano se pone "de moda" (todo el mundo lo sabe), aumenta la demanda de ese producto, y el precio sube?
+Me parece que ese mismo mecanismo es el que explica la subida de los precios de la vivienda _en zonas urbanas de cierto tamaño_. Todo el mundo quiere vivir allí, porque es, objetiva y científicamente, mejor... y por ende está de moda.
+La cuestión es... ¿es realmente objetiva y científicamente mejor? ¿Cómo se generan esas modas? ¿Qué es "lo guay"?
+Para mí el problema de la vivienda (y de otro tipo de bienes "tensionados") es enseñar a la gente a discernir entre moda y necesidad real. Luego que cada uno decida.
+Esto no entra en conflicto con impedir la especulación de ciertos bienes básicos, pero mediante reglas muy muy laxas, muy permisivas, que solo entren en juego en escalas muy muy pequeñas de la población
