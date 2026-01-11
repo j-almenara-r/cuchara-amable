@@ -1,5 +1,15 @@
 # La Revolución Prudente
 
+La "revolución" es una idea muy presente en nuestras vidas, como un eco de fondo constante, amparado por la sospecha de que un orden establecido por fuerzas egoístas y malintencionadas rige "nuestros" designios (en oposición a los "suyos").
+
+Esta idea, potentísima desde la perspectiva "tribal" del ser humano, es raramente cuestionada; casi constituye un dogma. Sin embargo, ¿y si está equivocada? 
+
+Este texto nace de un experimento mental: desterrar esa idea de "revolución dicotómica" y, en su lugar, aceptar que el _estado_ actual de la sociedad es, simplemente, el cúmulo de decisiones de individuos humanos a lo largo del espacio-tiempo. Ni más ni menos. 
+
+aceptemos el estado real de la sociedad
+qué ocurriría si fuera falsa?  
+
+Hagamos el "experimento mental" de 
 Ćomienzo este texto introduciendo el porqué del título.
 Como no puede ser de otra forma, la razón principal es que resume en un sintagma corto la idea general: cómo lograr una transformación del estado real de la sociedad desde el respeto al estado actual de la misma, con todas las causas que lo han llevado hasta él. La evolución histórica, es decir, todo el conjunto de decisiones de seres humanos individuales hasta hoy.
 Sin embargo, una segunda razón, menos importante desde un punto de vista racional y efectivo, pero  posiblemente tanto o más desde la espontaneidad y la naturaleza sentimental humana, es que mi padre se llama Prudencio y de él he extraido dos ideas (o por qué no decirlo, enseñanzas) que de alguna forma consitityen una parte significativa de los fundamentos de este libro.
