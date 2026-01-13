@@ -231,6 +231,9 @@ Responsabilizar a los niños desde pequeños, poco a poco
 No permitir que el mal escale. El sistema tiene que proteger frente a la indisciplina, sin caer en el control ferreo
 Transferir la responsabilidad penal a los padres. Si tu hijo abusa de una niña, es como si si progenitor lo hubiera hecho, al 50%
 
+---
+
+Una analogía quizá no tan absurda: los Curie descubrieron la radiación, que fue positivo, y murieron debido a ello por el desconocimiento de su perjuicio para la salud. Quizá la "saturación informativa" sea a la salud mental lo mismo que la radiación a la salud "fisiológica" (aceptemos la distinción en este contexto). Descubrir sus efectos perniciosos solo es posible con el tiempo, tras la experimentación.
 
 **Nota sobre la "cuchara-amable"**
 
